@@ -4,7 +4,7 @@ title: Bio
 permalink: /bio/
 ---
 
-{% include image.html url="/images/airoldi_photo.jpg" width=300 align="right" %}
+{% include image.html url="/images/airoldi_photo2.jpeg" width=300 align="right" %}
 
 Edoardo M. Airoldi is the Millard E. Gladfelter Professor of Statistics and Data Science, and a Professor of Finance (by courtesy), in the Fox School of Business, at Temple University. He also serves as Director of the Fox School’s Data Science Center. Prior to joining Fox, Airoldi was on the faculty in the Department of Statistics at Harvard University, where he founded and directed the Harvard Laboratory for Applied Statistics & Data Science, until 2018. Additionally, he held visiting positions at MIT, Yale, and Microsoft Research New England. 
 
